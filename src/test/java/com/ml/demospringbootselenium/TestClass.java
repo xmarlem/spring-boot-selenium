@@ -23,6 +23,7 @@ public class TestClass  {
         driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), desiredCapabilities);
     }
 
+
     @After
     public void tearDown() {
         driver.quit();
