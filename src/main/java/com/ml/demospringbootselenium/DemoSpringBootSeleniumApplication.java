@@ -8,7 +8,6 @@ public class DemoSpringBootSeleniumApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoSpringBootSeleniumApplication.class, args);
-		
 	}
 
 }
